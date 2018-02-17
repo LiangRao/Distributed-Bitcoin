@@ -1,0 +1,5 @@
+chmod u+x ~/private/cmu15640ds/cmu-15640/bin/linux_amd64/ctest
+chmod u+x ~/private/cmu15640ds/cmu-15640/bin/linux_amd64/mtest
+go install github.com/cmu440/bitcoin/client
+go install github.com/cmu440/bitcoin/miner
+go install github.com/cmu440/bitcoin/server

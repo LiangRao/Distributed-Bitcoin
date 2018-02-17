@@ -1,0 +1,1 @@
+$GOPATH/bin/client localhost:6060 bradfitz 9999

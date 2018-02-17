@@ -1,0 +1,3 @@
+export GOROOT=/usr/local/depot/go
+export GOPATH=$HOME/private/cmu15640ds/cmu-15640
+export PATH=$PATH:$(go env GOPATH)/bin
